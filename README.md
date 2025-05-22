@@ -4,7 +4,7 @@
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     <div>
     - 🌱 I’m currently learning MERN stack<br>
-    - 📫 How to reach me dinuvi2003@gmail.com
+    - 📫 How to reach me <a href="dinuvi2003@gmail.com" target="blank">
     </div>
 <br>
 <br>
