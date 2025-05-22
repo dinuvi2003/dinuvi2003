@@ -3,8 +3,8 @@
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     <div>
-        - 🌱 I’m currently learning MERN stack<br>
-    
+        
+- 🌱 I’m currently learning MERN stack    
 - 📫 How to reach me **dinuvi2003@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
