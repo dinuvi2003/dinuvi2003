@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋 I'm Dinuvi Senevirathne</h1>
-<br>
 <h3 align="center">A passionate web developer </h3>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
